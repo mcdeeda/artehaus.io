@@ -1,0 +1,16 @@
+$space-xl: 2.74rem;
+
+.stack-xl {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  
+  .stack-xl > * {
+    margin-top: 0;
+    margin-bottom: 0;
+  } 
+  
+  .stack-xl > * + * {
+    margin-top: $space-xl;
+  }

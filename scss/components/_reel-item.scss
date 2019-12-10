@@ -1,0 +1,14 @@
+.reel-item {
+    height: auto;
+}
+
+.reel-item > img {
+    width: 100%;
+}
+
+.reel-item > .text-container {
+    width: 100%;
+    background-color: $color-black;
+    color: $color-white;
+    text-align: center;
+}

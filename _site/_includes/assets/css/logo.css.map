@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,CAAC;EACF,UAAU,EAAE,MAAM;CACrB",
+    "sources": [
+        "../../../scss/components/logo.scss"
+    ],
+    "names": [],
+    "file": "logo.css"
+}

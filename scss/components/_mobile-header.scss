@@ -1,0 +1,10 @@
+.mobile-header {
+    margin: $s0;
+}
+
+//large screens
+@media screen and (min-width: 48.01rem) {
+    .mobile-header {
+        display: none;
+    }
+  }

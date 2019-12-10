@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../../../scss/components/subtitile.scss"
+    ],
+    "names": [],
+    "file": "subtitile.css"
+}

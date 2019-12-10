@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,SAAS,CAAC;EACN,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,eAAe,EAAE,UAAU;CAC5B;;AAED,AAAA,SAAS,GAAG,CAAC,CAAC;EACZ,UAAU,EAAE,CAAC;EACb,aAAa,EAAE,CAAC;CACjB;;AAED,AAAA,SAAS,GAAG,CAAC,GAAG,CAAC,CAAC;EAChB,UAAU,EAdH,IAAI;CAeZ",
+    "sources": [
+        "../../../scss/layout/stack-sm.scss"
+    ],
+    "names": [],
+    "file": "stack-sm.css"
+}

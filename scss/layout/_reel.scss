@@ -1,0 +1,32 @@
+.reel {
+    display: flex;
+    height: auto;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scrollbar-color: $color-gray $color-black;
+  }
+  
+  .reel::-webkit-scrollbar {
+    height: 1rem;
+  }
+  
+  .reel::-webkit-scrollbar-track {
+    background-color: $color-gray;
+  }
+  
+  .reel::-webkit-scrollbar-thumb {
+    background-color: $color-black;
+    background-image: linear-gradient($color-gray 0, $color-gray 0.25rem, $color-black 0.25rem, $color-black 0.75rem, $color-gray 0.75rem);
+  }
+  
+  .reel > * {
+    flex: 0 0 300px;
+  }
+  
+  .reel > * + * {
+    margin-left: 1.4rem;
+  }
+  
+  .reel.overflowing {
+    padding-bottom: $s-1;
+  }

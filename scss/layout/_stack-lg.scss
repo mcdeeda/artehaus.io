@@ -1,0 +1,16 @@
+$space-lg: 1.96rem;
+
+.stack-lg {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  
+  .stack-lg > * {
+    margin-top: 0;
+    margin-bottom: 0;
+  } 
+  
+  .stack-lg > * + * {
+    margin-top: $space-lg;
+  }

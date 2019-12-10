@@ -1,0 +1,21 @@
+{
+    "title": "Edan McDevitt | Artehaus",
+    "social": [
+        {
+            "href": "https://www.google.com/",
+            "iconName": "logo-instagram"
+        },
+        {
+            "href": "https://www.google.com/",
+            "iconName": "logo-twitter"
+        },
+        {
+            "href": "https://www.google.com/",
+            "iconName": "logo-linkedin"
+        },
+        {
+            "href": "mailto:example@gmail.com",
+            "iconName": "logo-facebook"
+        }
+    ]
+}

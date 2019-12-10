@@ -1,0 +1,11 @@
+.subtitle {
+    font-family: $font-body;
+    text-align: center;
+    color: $color-dark-gray;
+}
+
+@media (prefers-color-scheme: dark) {
+    .subtitle {
+        color: $color-light-gray;
+    }
+}

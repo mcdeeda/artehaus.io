@@ -1,0 +1,17 @@
+$cluster-space: 1rem;
+
+.cluster {
+    overflow: hidden;
+  }
+  
+  .cluster > * {
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: flex-start;
+    align-items: center;
+    margin: ($cluster-space / 2) * -1;
+  }
+  
+  .cluster > * > * {
+    margin: ($cluster-space / 2);
+  }

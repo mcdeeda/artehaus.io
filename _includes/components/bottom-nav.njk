@@ -1,0 +1,5 @@
+<nav class="bottom-nav">
+    {%- for sitePage in collections.pages -%}
+        <a href="{{ sitePage.url }}"{% if sitePage.url == page.url %} class="bottom-navlink stack-xs active" {% else %} class="bottom-navlink stack-xs"{% endif %}> <span>{{sitePage.data.title}}</span> <div class="accent"></div> </a>
+    {%- endfor -%}
+</nav>

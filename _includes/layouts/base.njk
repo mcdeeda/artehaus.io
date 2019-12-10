@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+{# Head #}
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i&display=swap" rel="stylesheet">
+    {% set font %}
+        {%include "assets/fonts/stylesheet.css" %}
+    {% endset %}
+    <style>
+        {{ font | cssmin | safe }}
+    </style>
+    {% set css %}
+        {% include "assets/css/main.css" %}
+    {% endset %}
+    <style>
+        {{ css | cssmin | safe }}
+    </style>
+    {% set js %}
+        {% include "assets/js/main.js" %}
+    {% endset %}
+    <script>
+        {{ js | jsmin | safe }}
+    </script>
+    <title>{{ title or renderData.title or metadata.title }}</title>
+</head>
+{# /Head #}
+<body>
+    <div class="container">
+        <div class="mobile-header">
+            {% include "components/header.njk" %}
+        </div>
+        <div class="with-sidebar">
+            <div class="wrapper">
+                {# Sidebar #}
+                {% include "components/sidebar.njk" %}
+                {# /Sidebar #}
+                <main class="cover">
+                    {{ layoutContent | safe }}
+                </main>
+            </div>
+        </div>
+    </div>
+    {% include "components/bottom-nav.njk" %}
+    <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
+</body>
+</html>

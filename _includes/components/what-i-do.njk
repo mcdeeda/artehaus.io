@@ -1,0 +1,54 @@
+<article class="stack-sm">
+    <h2>What I Do</h2>
+    <div class="reel">
+        <figure class="reel-item">
+            <img class="box-shadow-light" src="https://picsum.photos/400" alt="Reel item thumbnail">
+            <div class="text-container">
+                <h3>Reel Item Label</h3>
+            </div>
+        </figure>
+                <figure class="reel-item">
+            <img class="box-shadow-light" src="https://picsum.photos/400" alt="Reel item thumbnail">
+            <div class="text-container">
+                <h3>Reel Item Label</h3>
+            </div>
+        </figure>
+                <figure class="reel-item">
+            <img class="box-shadow-light" src="https://picsum.photos/400" alt="Reel item thumbnail">
+            <div class="text-container">
+                <h3>Reel Item Label</h3>
+            </div>
+        </figure>
+                <figure class="reel-item">
+            <img class="box-shadow-light" src="https://picsum.photos/400" alt="Reel item thumbnail">
+            <div class="text-container">
+                <h3>Reel Item Label</h3>
+            </div>
+        </figure>
+                <figure class="reel-item">
+            <img class="box-shadow-light" src="https://picsum.photos/400" alt="Reel item thumbnail">
+            <div class="text-container">
+                <h3>Reel Item Label</h3>
+            </div>
+        </figure>
+                <figure class="reel-item">
+            <img class="box-shadow-light" src="https://picsum.photos/400" alt="Reel item thumbnail">
+            <div class="text-container">
+                <h3>Reel Item Label</h3>
+            </div>
+        </figure>
+                <figure class="reel-item">
+            <img class="box-shadow-light" src="https://picsum.photos/400" alt="Reel item thumbnail">
+            <div class="text-container">
+                <h3>Reel Item Label</h3>
+            </div>
+        </figure>
+    </div>
+</article>
+
+{% set reel %}
+{% include "assets/js/reel.js" %}
+{% endset %}
+<script>
+    {{ reel | jsmin | safe }}
+</script>

@@ -1,0 +1,44 @@
+    .navlink {
+        font-family: $font-heading;
+        text-transform: uppercase;
+        font-size: $s1;
+        padding: $s0;
+        width: 100%;
+
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .navlink.active,
+    .navlink:hover {
+        background-color: $color-black;
+        color: $color-white;
+        transition: color 0.1s linear, background-color 0.1s linear;
+
+        .accent {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background: $color-white;
+            transition: background-color 0.1s linear;
+        }
+    }
+
+    @media (prefers-color-scheme: dark) {
+
+        .navlink.active,
+        .navlink:hover {
+            background-color: $color-white;
+            color: $color-black;
+            transition: color 0.1s linear, background-color 0.1s linear;
+
+            .accent {
+                width: 12px;
+                height: 12px;
+                border-radius: 50%;
+                background: $color-black;
+                transition: background-color 0.1s linear;
+            }
+        }
+    }

@@ -1,0 +1,16 @@
+$space-sm: 1rem;
+
+.stack-sm {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  
+  .stack-sm > * {
+    margin-top: 0;
+    margin-bottom: 0;
+  } 
+  
+  .stack-sm > * + * {
+    margin-top: $space-sm;
+  }

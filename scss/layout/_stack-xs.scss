@@ -1,0 +1,16 @@
+$space-xs: 0.2rem;
+
+.stack-xs {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  
+  .stack-xs > * {
+    margin-top: 0;
+    margin-bottom: 0;
+  } 
+  
+  .stack-xs > * + * {
+    margin-top: $space-xs;
+  }

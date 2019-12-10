@@ -1,0 +1,16 @@
+<footer class="stack-xs">
+    <div class="social cluster">
+        <div class="wrapper">
+            {# icons here #}
+            {%- for socialMedia in metadata.social -%}
+            <a href="{{ socialMedia.href }}">
+                <ion-icon name="{{ socialMedia.iconName }}" size="large"></ion-icon>
+            </a>
+            {%- endfor -%}
+        </div>
+    </div>
+    <div>
+        <h4>Copyright© 2019 B. Edan Mcdevitt.</h4>
+        <h4>Site design and build by Alex Lotsos</h4>
+    </div>
+</footer>

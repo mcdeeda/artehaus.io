@@ -1,0 +1,29 @@
+.flow {
+    overflow: hidden;
+    margin: $s0 * -1;
+}
+
+.flow > * {
+    margin: $s0;
+}
+
+.flow > .header {
+    margin-top: $s2;
+    clear: both;
+}
+
+//larger screens
+@media screen and (min-width: 48.01rem) {
+    .flow > .floater {
+        max-width: 300px;
+        margin-top: 0;
+    }
+    
+    .flow > .floater:nth-of-type(odd) {
+        float: left;
+    }
+    
+    .flow > .floater:nth-of-type(even) {
+        float: right;
+    }
+}

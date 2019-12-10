@@ -1,0 +1,86 @@
+
+// color and font variables
+$font-heading: "league_spartanbold", sans-serif;
+$font-body: "Libre Baskerville", serif;
+$color-black: #151515;
+$color-dark-gray: #5D5D5D;
+$color-gray: #959595;
+$color-light-gray: #C6C6C6;
+$color-white: #F3F3F3;
+
+// ratio and modular scale
+$ratio: 1.4;
+$s0: 1rem;
+$s1: $s0 * $ratio;
+$s2: $s1 * $ratio;
+$s3: $s2 * $ratio;
+$s4: $s3 * $ratio;
+$s5: $s4 * $ratio;
+$s-1: $s0 / $ratio;
+$s-2: $s-1 / $ratio;
+$s-3: $s-2 / $ratio;
+$s-4: $s-3 / $ratio;
+$s-5: $s-4 / $ratio;
+
+// measure and line height
+$measure: 65ch;
+$line-height: $ratio;
+$line-height-small: 0.8 * $ratio;
+
+//borders
+$border-thin: $s-5 $color-black solid;
+$border-thick: $s3 $color-black solid;
+
+// Set font, color, line height etc in root
+:root{
+    line-height: $ratio;
+    font-size: calc(.2vw + 1em);
+    font-family: $font-body;
+    background-color: $color-white;
+    color: $color-black;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        background-color: $color-black;
+        color: $color-white;
+    }
+}
+
+h1, .h1 {
+    font-size: $s3;
+    font-family: $font-heading;
+}
+h2, .h2 {
+    font-size: $s2;
+    font-family: $font-heading;
+}
+h3, .h3 {
+    font-size: $s1;
+    font-family: $font-heading;
+}
+h4, .h4 {
+    font-size: $s-1;
+    font-weight: normal;
+}
+h5, .h5 {
+    font-size: $s-2;
+    font-weight: normal;
+}
+h6, .h6 {
+    font-size: $s-3;
+    font-weight: normal;
+}
+
+p, .p {
+    font-size: 0.8*$s0;
+    line-height: 150%;
+}
+
+img, .img {
+    max-width: 100%;
+}
+
+section {
+    max-width: $measure * 1.5;
+}
