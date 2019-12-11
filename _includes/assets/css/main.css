@@ -603,6 +603,81 @@ section {
   text-align: center;
 }
 
+form[name="contact"] {
+  max-width: 65ch;
+}
+
+form[name="contact"] label {
+  font-family: "league_spartanbold", sans-serif;
+}
+
+form[name="contact"] input {
+  border-style: solid;
+  border: 2px #151515 solid;
+  height: 2ch;
+  padding: 1.5ch;
+}
+
+form[name="contact"] input::-webkit-input-placeholder {
+  color: #959595;
+  font-style: italic;
+}
+
+form[name="contact"] input:-ms-input-placeholder {
+  color: #959595;
+  font-style: italic;
+}
+
+form[name="contact"] input::-ms-input-placeholder {
+  color: #959595;
+  font-style: italic;
+}
+
+form[name="contact"] input::placeholder {
+  color: #959595;
+  font-style: italic;
+}
+
+form[name="contact"] textarea {
+  border-style: solid;
+  border: 2px #151515 solid;
+  padding: 1.5ch;
+  padding-top: 1ch;
+}
+
+form[name="contact"] textarea::-webkit-input-placeholder {
+  color: #959595;
+  font-style: italic;
+}
+
+form[name="contact"] textarea:-ms-input-placeholder {
+  color: #959595;
+  font-style: italic;
+}
+
+form[name="contact"] textarea::-ms-input-placeholder {
+  color: #959595;
+  font-style: italic;
+}
+
+form[name="contact"] textarea::placeholder {
+  color: #959595;
+  font-style: italic;
+}
+
+form[name="contact"] button {
+  font-family: "league_spartanbold", sans-serif;
+  font-size: 1rem;
+  margin-top: 1rem;
+  width: 16ch;
+  padding: 1ch;
+  text-align: center;
+  border-style: solid;
+  border: 2px #151515 solid;
+  background: #151515;
+  color: #F3F3F3;
+}
+
 .text-decoration\:underline {
   text-decoration: underline;
 }

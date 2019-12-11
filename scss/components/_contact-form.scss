@@ -1,0 +1,48 @@
+form[name="contact"] {
+    max-width: $measure;
+
+    label {
+        font-family: $font-heading;
+    }
+
+    input {
+        border-style: solid;
+        border: 2px $color-black solid;
+
+        height: 2ch;
+        padding: 1.5ch;
+
+        &::placeholder {
+            color: $color-gray;
+            font-style: italic;
+        }
+    }
+
+    textarea {
+        border-style: solid;
+        border: 2px $color-black solid;
+
+        padding: 1.5ch;
+        padding-top: 1ch;
+
+        &::placeholder {
+            color: $color-gray;
+            font-style: italic;
+        }
+    }
+
+    button {
+        font-family: $font-heading;
+        font-size: $s0;
+
+        margin-top: $s0;
+        width: 16ch;
+        padding: 1ch;
+        text-align: center;
+
+        border-style: solid;
+        border: 2px $color-black solid;
+        background: $color-black;
+        color: $color-white;
+    }
+}
