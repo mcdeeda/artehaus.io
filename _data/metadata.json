@@ -3,19 +3,28 @@
     "social": [
         {
             "href": "https://www.google.com/",
-            "iconName": "logo-instagram"
+            "iconName": "logo-instagram",
+            "sidebar": true
         },
         {
             "href": "https://www.google.com/",
-            "iconName": "logo-twitter"
+            "iconName": "logo-twitter",
+            "sidebar": true
         },
         {
             "href": "https://www.google.com/",
-            "iconName": "logo-linkedin"
+            "iconName": "logo-linkedin",
+            "sidebar": true
         },
         {
             "href": "mailto:example@gmail.com",
-            "iconName": "logo-facebook"
+            "iconName": "logo-facebook",
+            "sidebar": true
+        },
+        {
+            "href": "https://www.google.com/",
+            "iconName": "logo-github",
+            "sidebar": false 
         }
     ]
 }

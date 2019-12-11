@@ -1,0 +1,10 @@
+<div class="social cluster">
+        <div class="wrapper">
+            {# icons here #}
+            {%- for socialMedia in metadata.social -%}
+            <a href="{{ socialMedia.href }}">
+                <ion-icon name="{{ socialMedia.iconName }}" size="large"></ion-icon>
+            </a>
+            {%- endfor -%}
+        </div>
+    </div>

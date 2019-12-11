@@ -3,9 +3,11 @@
         <div class="wrapper">
             {# icons here #}
             {%- for socialMedia in metadata.social -%}
-            <a href="{{ socialMedia.href }}">
-                <ion-icon name="{{ socialMedia.iconName }}" size="large"></ion-icon>
-            </a>
+                {% if socialMedia.sidebar %}
+                    <a href="{{ socialMedia.href }}">
+                        <ion-icon name="{{ socialMedia.iconName }}" size="large"></ion-icon>
+                    </a>
+                {% endif %}
             {%- endfor -%}
         </div>
     </div>
