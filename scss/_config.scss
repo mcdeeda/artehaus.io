@@ -23,7 +23,7 @@ $s-4: $s-3 / $ratio;
 $s-5: $s-4 / $ratio;
 
 // measure and line height
-$measure: 65ch;
+$measure: 60ch;
 $line-height: $ratio;
 $line-height-small: 0.8 * $ratio;
 
@@ -50,14 +50,17 @@ $border-thick: $s3 $color-black solid;
 h1, .h1 {
     font-size: $s3;
     font-family: $font-heading;
+    text-transform: uppercase;
 }
 h2, .h2 {
     font-size: $s2;
     font-family: $font-heading;
+    text-transform: uppercase;
 }
 h3, .h3 {
     font-size: $s1;
     font-family: $font-heading;
+    text-transform: uppercase;
 }
 h4, .h4 {
     font-size: $s-1;

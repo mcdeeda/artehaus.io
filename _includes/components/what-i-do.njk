@@ -1,48 +1,16 @@
 <article class="stack-sm">
     <h2>What I Do</h2>
     <div class="reel">
-        <figure class="reel-item">
-            <img class="box-shadow-light" src="https://picsum.photos/400" alt="Reel item thumbnail">
-            <div class="text-container">
-                <h3>Reel Item Label</h3>
-            </div>
-        </figure>
+        {% for category in collections.projectCategories %}
+            <a href="/#{{ category | lower | replace(" ", "-") }}">
                 <figure class="reel-item">
-            <img class="box-shadow-light" src="https://picsum.photos/400" alt="Reel item thumbnail">
-            <div class="text-container">
-                <h3>Reel Item Label</h3>
-            </div>
-        </figure>
-                <figure class="reel-item">
-            <img class="box-shadow-light" src="https://picsum.photos/400" alt="Reel item thumbnail">
-            <div class="text-container">
-                <h3>Reel Item Label</h3>
-            </div>
-        </figure>
-                <figure class="reel-item">
-            <img class="box-shadow-light" src="https://picsum.photos/400" alt="Reel item thumbnail">
-            <div class="text-container">
-                <h3>Reel Item Label</h3>
-            </div>
-        </figure>
-                <figure class="reel-item">
-            <img class="box-shadow-light" src="https://picsum.photos/400" alt="Reel item thumbnail">
-            <div class="text-container">
-                <h3>Reel Item Label</h3>
-            </div>
-        </figure>
-                <figure class="reel-item">
-            <img class="box-shadow-light" src="https://picsum.photos/400" alt="Reel item thumbnail">
-            <div class="text-container">
-                <h3>Reel Item Label</h3>
-            </div>
-        </figure>
-                <figure class="reel-item">
-            <img class="box-shadow-light" src="https://picsum.photos/400" alt="Reel item thumbnail">
-            <div class="text-container">
-                <h3>Reel Item Label</h3>
-            </div>
-        </figure>
+                    <img src="https://picsum.photos/600" alt="Reel item thumbnail" class="box-shadow-light">
+                    <div class="text-container">
+                        <h3>{{ category }}</h3>
+                    </div>
+                </figure>
+            </a>
+        {% endfor %}
     </div>
 </article>
 

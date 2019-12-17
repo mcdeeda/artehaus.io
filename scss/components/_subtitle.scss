@@ -2,6 +2,7 @@
     font-family: $font-body;
     text-align: center;
     color: $color-dark-gray;
+    text-transform: none;
 }
 
 @media (prefers-color-scheme: dark) {

@@ -1,0 +1,13 @@
+<div class="grid">
+    {% for project in collections.projects %}
+    <a href={{ project.url }}>
+        <article class="card" data-tags="{{ project.data.tags | separate }}">
+            <img src={{ project.data.thumbnailSrc }} alt={{ project.data.thumbnailAlt }}>
+            <div class="info stack-xs">
+                <h3>{{ project.data.title }}</h3>
+                <p>{{ project.data.description }}</p>
+            </div>
+        </article>
+    </a>
+    {% endfor %}
+</div>

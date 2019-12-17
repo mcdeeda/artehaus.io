@@ -7,7 +7,9 @@ module.exports = function (eleventyConfig) {
 
   //filter to get a list of items and separate them into individual items separated by spaces
   eleventyConfig.addNunjucksFilter("separate", function(list) {
-    return list.join(" ");
+    let listTransform = list.map(x => x.toLowerCase().replace(" ", "-"));
+    return listTransform.join(" ");
+    // return list.join(" ");
   });
 
   // Minify CSS
@@ -36,6 +38,24 @@ module.exports = function (eleventyConfig) {
       return minified;
     }
     return content;
+  });
+
+  eleventyConfig.addCollection("projectCategories", function(collection){
+    
+    const categories = new Set();
+    const projects = collection.getFilteredByTag("projects");
+
+    for(const project of projects) {
+      for(const tag of project.data.tags) {
+        categories.add(tag);
+      }
+    }
+
+    categories.delete("projects");
+    categories.delete("pages");
+
+    return Array.from(categories);
+
   });
 
 //   eleventyConfig.addPassthroughCopy("static/images/");

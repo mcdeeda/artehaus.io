@@ -5,20 +5,19 @@ permalink: "/"
 title: Work
 tags: pages
 ---
-
-<div class="stack-xl centered">
-    <h1>Let's fill this page up!</h1>
-    <h1>Let's fill this page up!</h1>
-    <h1>Let's fill this page up!</h1>
-    <h1>Let's fill this page up!</h1>
-    <h1>Let's fill this page up!</h1>
-    <h1>Let's fill this page up!</h1>
-    <h1>Let's fill this page up!</h1>
-    <h1>Let's fill this page up!</h1>
-    <h1>Let's fill this page up!</h1>
-    <h1>Let's fill this page up!</h1>
-    <h1>Let's fill this page up!</h1>
-    <h1>Let's fill this page up!</h1>
-    <h1>Let's fill this page up!</h1>
-    <h1>Let's fill this page up!</h1>
-</div>
+{# animate grid css #}
+<script src="https://unpkg.com/animate-css-grid@latest"></script>
+<section class="centered stack-lg">
+    <h2>My Work</h2>
+    {% include "components/filter-list.njk" %}
+    {% include "components/project-grid.njk" %}
+</section>
+{% set filterjs %}
+    {% include "assets/js/filter.js" %}
+{% endset %}
+<script> {{ filterjs | jsmin | safe }}</script>
+{# gridobserver css #}
+{% set gridjs %}
+    {% include "assets/js/grid.js" %}
+{% endset %}
+<script> {{ gridjs | jsmin | safe }} </script>

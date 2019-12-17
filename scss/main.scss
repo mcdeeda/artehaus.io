@@ -11,9 +11,11 @@
 @import 'layout/with-sidebar';
 @import 'layout/cluster';
 @import 'layout/switcher';
+@import 'layout/frame';
 @import 'layout/frame-square';
 @import 'layout/flow';
 @import 'layout/reel';
+@import 'layout/grid';
 
 @import 'components/sidebar';
 @import 'components/logo';
@@ -23,5 +25,7 @@
 @import 'components/bottom-nav';
 @import 'components/reel-item';
 @import 'components/contact-form';
+@import 'components/filter';
+@import 'components/card';
 
 @import 'util';

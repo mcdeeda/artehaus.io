@@ -1,0 +1,8 @@
+<div class="cluster">
+    <div class="wrapper flex-wrap:wrap">
+            <a href="#" class="filter active" data-filter="projects">All Work</a>
+            {% for category in collections.projectCategories %}
+                <a href="#" class="filter" data-filter="{{ category | lower | replace(" ", "-") }}">{{ category }}</a>
+            {% endfor %}
+    </div>
+</div>
