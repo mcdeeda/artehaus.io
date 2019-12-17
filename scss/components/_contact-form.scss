@@ -45,4 +45,15 @@ form[name="contact"] {
         background: $color-black;
         color: $color-white;
     }
+
+    @media (prefers-color-scheme: dark) {
+        input, textarea {
+            border: 2px $color-white solid;
+        }
+
+        button {
+            background: $color-white;
+            color: $color-black;
+        }
+    }
 }
