@@ -24,6 +24,7 @@
     <script>
         {{ js | jsmin | safe }}
     </script>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <title>{{ title or renderData.title or metadata.title }}</title>
 </head>
 {# /Head #}
@@ -43,6 +44,12 @@
             </div>
         </div>
     </div>
+    {% set netlify %}
+        {% include "assets/js/netlify.js" %}
+    {% endset %}
+    <script>
+        {{ netlify | jsmin | safe }}
+    </script>
     {% include "components/bottom-nav.njk" %}
     <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
 </body>

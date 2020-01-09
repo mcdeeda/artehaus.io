@@ -1,0 +1,22 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+publish_mode: editorial_workflow
+
+media_folder: "static/media/uploads" # Media files will be stored in the repo under images/uploads
+public_folder: "static/media/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - name: "projects" # Used in routes, e.g., /admin/collections/blog
+    label: "Project" # Used in the UI
+    folder: "projects" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    #slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/project.njk"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Thumbnail", name: "thumbnailSrc", widget: "image"}
+      - {label: "Thumbnail Alt", name: "thumbnailAlt", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
