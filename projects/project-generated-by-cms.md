@@ -45,7 +45,7 @@ tags:
   </style>
 
   <div class="random-flex-container-lol">
-    <img src="https://picsum.photos/800"><img src="https://picsum.photos/800">
-    <img src="https://picsum.photos/800"><img src="https://picsum.photos/800">
+    <img src="https://picsum.photos/800">
+    <img src="https://picsum.photos/800">
   </div>
 </div>
