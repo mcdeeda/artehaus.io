@@ -27,7 +27,7 @@ Let's try out some html with our custom CSS
   <article class="frame-square">
     <img src="https://picsum.photos/800">
   </article>
-  <articleclass="frame-square">
+  <article class="frame-square">
     <img src="https://picsum.photos/800">
   </article>
 </div>
