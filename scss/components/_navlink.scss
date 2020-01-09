@@ -15,14 +15,6 @@
         background-color: $color-black;
         color: $color-white;
         transition: color 0.1s linear, background-color 0.1s linear;
-
-        .accent {
-            width: 12px;
-            height: 12px;
-            border-radius: 50%;
-            background: $color-white;
-            transition: background-color 0.1s linear;
-        }
     }
 
     @media (prefers-color-scheme: dark) {
@@ -32,13 +24,5 @@
             background-color: $color-white;
             color: $color-black;
             transition: color 0.1s linear, background-color 0.1s linear;
-
-            .accent {
-                width: 12px;
-                height: 12px;
-                border-radius: 50%;
-                background: $color-black;
-                transition: background-color 0.1s linear;
-            }
         }
     }

@@ -230,7 +230,7 @@ section {
 }
 
 @media screen and (min-width: 48.01rem) {
-  .cover {
+  main {
     max-height: 100vh;
     overflow-y: auto;
   }
@@ -447,17 +447,8 @@ section {
 .grid {
   display: -ms-grid;
   display: grid;
-  gap: none;
   -ms-grid-columns: (minmax(15rem, 1fr))[auto-fill];
       grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
-  grid-auto-rows: minmax(13rem, auto);
-  justify-items: stretch;
-}
-
-.grid > * > * {
-  width: 100%;
-  height: 100%;
-  padding: 1em;
 }
 
 #sidebar {
@@ -471,27 +462,26 @@ section {
   }
 }
 
-@media (prefers-color-scheme: dark) {
-  #sidebar {
-    -webkit-box-shadow: 0px 0px 15px rgba(243, 243, 243, 0.15);
-            box-shadow: 0px 0px 15px rgba(243, 243, 243, 0.15);
-  }
+.header hr {
+  display: block;
+  height: 1px;
+  width: 10ch;
+  border: 0;
+  border-top: 3px solid #151515;
 }
 
-.logo {
-  text-align: center;
-}
-
-.subtitle {
+.header .subtitle {
   font-family: "Libre Baskerville", serif;
-  text-align: center;
   color: #5D5D5D;
   text-transform: none;
 }
 
 @media (prefers-color-scheme: dark) {
-  .subtitle {
+  .header .subtitle {
     color: #C6C6C6;
+  }
+  .header hr {
+    border-top: 3px solid #F3F3F3;
   }
 }
 
@@ -520,16 +510,6 @@ section {
   transition: color 0.1s linear, background-color 0.1s linear;
 }
 
-.navlink.active .accent,
-.navlink:hover .accent {
-  width: 12px;
-  height: 12px;
-  border-radius: 50%;
-  background: #F3F3F3;
-  -webkit-transition: background-color 0.1s linear;
-  transition: background-color 0.1s linear;
-}
-
 @media (prefers-color-scheme: dark) {
   .navlink.active,
   .navlink:hover {
@@ -537,15 +517,6 @@ section {
     color: #151515;
     -webkit-transition: color 0.1s linear, background-color 0.1s linear;
     transition: color 0.1s linear, background-color 0.1s linear;
-  }
-  .navlink.active .accent,
-  .navlink:hover .accent {
-    width: 12px;
-    height: 12px;
-    border-radius: 50%;
-    background: #151515;
-    -webkit-transition: background-color 0.1s linear;
-    transition: background-color 0.1s linear;
   }
 }
 
@@ -580,8 +551,6 @@ section {
           align-items: center;
   background: #151515;
   color: #959595;
-  -webkit-box-shadow: 0px 0px 15px rgba(243, 243, 243, 0.15);
-          box-shadow: 0px 0px 15px rgba(243, 243, 243, 0.15);
 }
 
 .bottom-nav .bottom-navlink {
@@ -741,107 +710,73 @@ form[name="contact"] button {
 }
 
 .filter {
-  color: #151515;
-  border: 2px solid #151515;
-  padding: 0.5em 1em;
-  -webkit-transition: color 0.2s ease-in, background-color 0.2s ease-in;
-  transition: color 0.2s ease-in, background-color 0.2s ease-in;
+  position: relative;
 }
 
-.filter.active {
+.filter::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: 0;
+  left: 0;
   background: #151515;
-  color: #F3F3F3;
-  border: 2px solid #F3F3F3;
-  padding: 0.5em 1em;
-  -webkit-transition: color 0.2s ease-out, background-color 0.2s ease-out;
-  transition: color 0.2s ease-out, background-color 0.2s ease-out;
+  visibility: hidden;
+  border-radius: 2px;
+  -webkit-transform: scaleX(0);
+          transform: scaleX(0);
+  -webkit-transition: .15s ease-out;
+  transition: .15s ease-out;
+}
+
+.filter:hover::before, .filter.active::before {
+  visibility: visible;
+  -webkit-transform: scaleX(1);
+          transform: scaleX(1);
 }
 
 @media (prefers-color-scheme: dark) {
-  .filter {
-    color: #F3F3F3;
-    border: 2px solid #F3F3F3;
-    padding: 0.5em 1em;
-    -webkit-transition: color 0.2s ease-in, background-color 0.2s ease-in;
-    transition: color 0.2s ease-in, background-color 0.2s ease-in;
-  }
-  .filter.active {
+  .filter::before {
     background: #F3F3F3;
-    color: #151515;
-    border: 2px solid #151515;
-    padding: 0.5em 1em;
-    -webkit-transition: color 0.2s ease-out, background-color 0.2s ease-out;
-    transition: color 0.2s ease-out, background-color 0.2s ease-out;
   }
 }
 
 .card {
   position: relative;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: end;
-      -ms-flex-align: end;
-          align-items: flex-end;
-  -webkit-transition: 0.4s ease-out;
-  transition: 0.4s ease-out;
 }
 
-.card:hover:before {
-  opacity: 1;
-}
-
-.card:hover .info {
-  opacity: 1;
-  -webkit-transform: translateY(0px);
-          transform: translateY(0px);
-}
-
-.card:before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  display: block;
-  width: 100%;
-  height: 100%;
-  background: rgba(0, 0, 0, 0.6);
-  z-index: 2;
-  -webkit-transition: 0.5s;
-  transition: 0.5s;
-  opacity: 0;
-}
-
-.card img {
-  overflow: hidden;
-  width: 100%;
-  height: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
+.card .info {
+  padding: 1rem;
   position: absolute;
   top: 0;
   right: 0;
   bottom: 0;
   left: 0;
+  background: rgba(0, 0, 0, 0.6);
+  color: #F3F3F3;
+  z-index: 3;
+  opacity: 0;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
 }
 
-.card .info {
-  background: transparent;
-  color: #F3F3F3;
-  position: relative;
-  z-index: 3;
-  opacity: 0;
-  -webkit-transition: 0.5s;
-  transition: 0.5s;
+.card .info:hover {
+  opacity: 1;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.card .info > * {
+  background: none;
 }
 
 .hidden {
@@ -856,20 +791,38 @@ form[name="contact"] button {
   z-index: 0;
 }
 
+.padding\:s0 {
+  padding: 1rem;
+}
+
 .flex-wrap\:wrap {
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
 }
 
+.justify-content\:space-between {
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.justify-content\:space-around {
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.justify-content\:space-evenly {
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+.gap\:s0 {
+  gap: 1rem;
+}
+
 .box-shadow-light {
   -webkit-box-shadow: 0px 0px 15px rgba(21, 21, 21, 0.15);
           box-shadow: 0px 0px 15px rgba(21, 21, 21, 0.15);
-}
-
-@media (prefers-color-scheme: dark) {
-  .box-shadow-light {
-    -webkit-box-shadow: 0px 0px 15px rgba(243, 243, 243, 0.15);
-            box-shadow: 0px 0px 15px rgba(243, 243, 243, 0.15);
-  }
 }
 /*# sourceMappingURL=main.css.map */

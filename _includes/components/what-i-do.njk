@@ -1,6 +1,6 @@
 <article class="stack-sm">
     <h2>What I Do</h2>
-    <div class="reel">
+    <div class="grid gap:s0">
         {% for category in collections.projectCategories %}
             <a href="/#{{ category | lower | replace(" ", "-") }}">
                 <figure class="reel-item">

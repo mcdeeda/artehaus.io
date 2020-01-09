@@ -1,0 +1,24 @@
+.header {
+    hr {
+        display: block;
+        height: 1px;
+        width: 10ch;
+        border: 0;
+        border-top: 3px solid $color-black;
+    }
+
+    .subtitle {
+        font-family: $font-body;
+        color: $color-dark-gray;
+        text-transform: none;
+    }
+
+    @media (prefers-color-scheme: dark) {
+        .subtitle {
+            color: $color-light-gray;
+        }
+        hr {
+            border-top: 3px solid $color-white;
+        }
+    }
+}

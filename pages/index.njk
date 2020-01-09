@@ -8,8 +8,12 @@ tags: pages
 {# animate grid css #}
 <script src="https://unpkg.com/animate-css-grid@latest"></script>
 <section class="centered stack-lg">
-    <h2>My Work</h2>
-    {% include "components/filter-list.njk" %}
+    <div class="cluster">
+        <div class="wrapper justify-content:space-between flex-wrap:wrap">
+            <h2>Work</h2>
+            {% include "components/filter-list.njk" %}
+        </div>
+    </div>
     {% include "components/project-grid.njk" %}
 </section>
 {% set filterjs %}
