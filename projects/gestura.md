@@ -31,4 +31,4 @@ Creating working electronic prototypes added an extra layer of challenge to this
 
 ### Finished Project
 
-![](static/media/uploads/2_cropped.jpg)
+![](static/media/uploads/brochure.jpg)
