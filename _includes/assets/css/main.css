@@ -11,9 +11,9 @@
 }
 
 :root {
-  line-height: 1.4;
+  line-height: 1;
   font-size: calc(.2vw + 1em);
-  font-family: "Libre Baskerville", serif;
+  font-family: sofia-pro, sans-serif; 
   background-color: #F3F3F3;
   color: #151515;
 }
@@ -26,21 +26,22 @@
 }
 
 h1, .h1 {
-  font-size: 2.744rem;
-  font-family: freight-display-pro, serif; 
-  text-transform: uppercase;
+  font-size: 3.744rem;
+  font-family: sofia-pro, sans-serif; 
+  font-weight: 900;
 }
 
 h2, .h2 {
   font-size: 1.96rem;
-  font-family: "league_spartanbold", sans-serif;
-  text-transform: uppercase;
+  font-family: sofia-pro, serif; 
+  font-weight: 700;
+  border-bottom: 1px solid black;
 }
 
 h3, .h3 {
-  font-size: 1.4rem;
-  font-family: "league_spartanbold", sans-serif;
-  text-transform: uppercase;
+  font-size: 1.6rem;
+  font-family: sofia-pro, serif; 
+  font-weight: 700;
 }
 
 h4, .h4 {
@@ -59,7 +60,8 @@ h6, .h6 {
 }
 
 p, .p {
-  font-size: 0.8rem;
+  font-family: sofia-pro, sans-serif; 
+  font-size: 1rem;
   line-height: 150%;
 }
 
@@ -486,7 +488,8 @@ section {
 }
 
 .navlink {
-  font-family: "league_spartanbold", sans-serif;
+  font-family: sofia-pro, sans-serif; 
+  font-weight: 700
   text-transform: uppercase;
   font-size: 1.4rem;
   padding: 1rem;
@@ -556,7 +559,8 @@ section {
 .bottom-nav .bottom-navlink {
   position: relative;
   height: 100%;
-  font-family: "league_spartanbold", sans-serif;
+  font-family: sofia-pro, sans-serif; 
+  font-weight: 700;
   text-transform: uppercase;
   font-size: 0.71429rem;
   -webkit-box-pack: center;
@@ -629,7 +633,8 @@ form[name="contact"] {
 }
 
 form[name="contact"] label {
-  font-family: "league_spartanbold", sans-serif;
+  font-family: sofia-pro, sans-serif; 
+    font-weight:700;
 }
 
 form[name="contact"] input {
