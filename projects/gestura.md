@@ -11,11 +11,7 @@ Gestura was my first major student project in industrial design. My intention wa
 
 > ## Process
 
-
-
 ### Gesture Study
-
-
 
 ### Form Innovation
 
@@ -26,3 +22,5 @@ Gestura was my first major student project in industrial design. My intention wa
 ### Electronics Prototyping
 
 ### Finished Project
+
+![](static/media/uploads/2_cropped.jpg)
