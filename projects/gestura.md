@@ -7,17 +7,23 @@ description: Gestural Musical Instruments for Live Performance
 tags:
   - Product Design
 ---
-Gestura was my first major student project in industrial design. My intention was to create gestural musical instruments using silicone, arduino, and processing.
+Gestura was my first major student project in industrial design. My intention was to create electronic musical instruments that were more dramatic and gestural than existing options like midi keyboards and beatpads. 
 
 > ## Process
 
 ### Gesture Study
+
+![Figures of various musicians with abstracted instruments](static/media/uploads/gesture_study.png "Gesture Study")
+
+To begin the ideation process, I began a practice of tracing the postures and gestures of traditional musicians, abstracting their instruments and inserting my own curves and volumes to see what sort of new forms were possible. Many of these sketches ended up evolving directly into concepts and models. 
 
 ### Form Innovation
 
 ![Sketch of a rectangular instrument bending](static/media/uploads/rect-good.jpg "Gestura Bend")
 
 ![Circular Instrument, with 2 hemispheres separating](static/media/uploads/circ_brushed.jpg "Gestura Wave")
+
+Refining my concept with sketches and models, the instruments began to take form as a collection of simple geometrical forms. 
 
 ### Electronics Prototyping
 
