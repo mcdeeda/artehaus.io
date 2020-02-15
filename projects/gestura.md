@@ -31,4 +31,6 @@ Creating working electronic prototypes added an extra layer of challenge to this
 
 ### Finished Project
 
-![](static/media/uploads/brochure.jpg)
+![Exploded view of three Gestura instruments](static/media/uploads/brochure.jpg "Exploded views")
+
+Gestura was an amazing learning experience where I navigated through a crash course in mold-making, working with multiple connecting parts and materials, and incorporating electronics into an industrial design project.
