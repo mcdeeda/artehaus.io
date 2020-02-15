@@ -27,7 +27,7 @@ Refining my concept with sketches and models, the instruments began to take form
 
 ### Electronics Prototyping
 
-
+Creating working electronic prototypes added an extra layer of challenge to this project. I ended up working in Processing and Processing.Sound to interpret serial input from Arduino Uno boards inside of the instruments. All code is open-source and [available on my Github](https://github.com/mcdeeda/Gestura).
 
 ### Finished Project
 
