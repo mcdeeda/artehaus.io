@@ -19,9 +19,9 @@ To begin the ideation process, I began a practice of tracing the postures and ge
 
 ### Form Innovation
 
-![Sketch of a rectangular instrument bending](static/media/uploads/rect-good.jpg "Gestura Bend")
 
-![Circular Instrument, with 2 hemispheres separating](static/media/uploads/circ_brushed.jpg "Gestura Wave")
+
+![Circular Instrument, with 2 hemispheres separating](static/media/uploads/both_instr.jpg "Gestura Wave")
 
 Refining my concept with sketches and models, the instruments began to take form as a collection of simple, geometric volumes. I developed a shared angle to heighten their visual relationship while allowing for a split between two materials with different tactile properties: anodized aluminum and silicone. 
 
@@ -31,6 +31,6 @@ Creating working electronic prototypes added an extra layer of challenge to this
 
 ### Finished Project
 
-![Exploded view of three Gestura instruments](static/media/uploads/brochure.jpg "Exploded views")
+![Exploded view of three Gestura instruments](static/media/uploads/brochure_2.jpg "Exploded views")
 
 Gestura was an amazing learning experience where I navigated through a crash course in mold-making, working with multiple connecting parts and materials, and incorporating electronics into an industrial design project.
