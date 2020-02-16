@@ -9,7 +9,9 @@ tags:
   - Creative Coding
   - Product Design
 ---
+# Gestura
 
+![3 Black instruments on a dark background](static/media/uploads/all-3.jpg "Gestura")
 
 Gestura was my first major student project in industrial design. My intention was to create electronic musical instruments that were more dramatic and gestural than existing options like midi keyboards and beatpads. 
 
