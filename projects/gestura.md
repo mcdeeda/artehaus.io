@@ -5,7 +5,7 @@ thumbnailSrc: static/media/uploads/all-3.jpg
 thumbnailAlt: '3 Dark, geometric instruments'
 description: Gestural Musical Instruments for Live Performance
 tags:
-  - Projects
+  - projects
   - Creative Coding
   - Product Design
 ---
