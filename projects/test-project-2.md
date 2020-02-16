@@ -1,7 +1,7 @@
 ---
 layout: layouts/project.njk
 title: Test Project 2
-thumbnailSrc: static/media/uploads/2019-03-29 10_27_15-Start.jpg
+thumbnailSrc: static/media/uploads/IMG_0051.PNG
 thumbnailAlt: >-
   A picture from picsum.photos, replace this with actual alt text to maintain
   accessibility
