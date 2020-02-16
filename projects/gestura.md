@@ -5,7 +5,9 @@ thumbnailSrc: static/media/uploads/all-3.jpg
 thumbnailAlt: '3 Dark, geometric instruments'
 description: Gestural Musical Instruments for Live Performance
 tags:
+  - Projects
   - Creative Coding
+  - Product Design
 ---
 Gestura was my first major student project in industrial design. My intention was to create electronic musical instruments that were more dramatic and gestural than existing options like midi keyboards and beatpads. 
 
