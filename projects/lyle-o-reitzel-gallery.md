@@ -19,4 +19,10 @@ In addition to co-managing Lyle O. Reitzel Gallery in 2018, I designed all poste
 
 ### Flyers
 
-An interesting challenge in designing flyers for gallery openings is to find a voice as a designer while
+I designed flyers and hand-outs for all gallery openings and events at Lyle O. Reitzel Gallery, getting a chance to start a dialogue with our artists and collaborating to use their works and my typography and graphic design to enhance the exhibition experience and draw in visitors.
+
+![Vinyl Cut signage for a gallery opening, and a gallery logo](static/media/uploads/othergallery_banner.jpg "Without Permission Vinyl Cut")
+
+### The Other Gallery
+
+In January 2019 I had the opportunity to do brand identity and assist in exhibition design for a secondary pop-up gallery, The Other Gallery. Our exhibition, "Without Permission" by Lucinda Grange opened January 21st, 2019 in the Lower East Side.
