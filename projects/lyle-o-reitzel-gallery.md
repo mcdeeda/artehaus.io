@@ -7,7 +7,7 @@ description: >-
   Graphic works for Lyle O. Reitzel Gallery, contemporary Dominican art gallery
   in the lower east side
 tags:
-  - Projects
+  - projects
   - Visual Design
   - ''
 ---
