@@ -16,14 +16,14 @@ tags:
 
 ## Process
 
-![Early concept sketches involving type, 3D figures, and dogs](static/media/uploads/concept_sketches.jpg "Three Dog Concept Sketches")
-
 ### Concept Sketching
 
-I started out with some loose sketches involving dogs and images related to Three Dog's business, local construction contracting. I as thinking about 3D figures, materials and, of course, dogs.
+![Early concept sketches involving type, 3D figures, and dogs](static/media/uploads/concept_sketches.jpg "Three Dog Concept Sketches")
 
-![]()
+I started out with some loose sketches involving dogs and images related to Three Dog's business, local construction contracting. I as thinking about 3D figures, materials and, of course, dogs. 
 
-### Preliminary Designs
 
-After we decided on the dogs as the focal point of the logo, I started to create vector drawings of different dog silhouettes to test in different positions relative to typography and imagery. Early concepts involved pergolas, the client's primary business, but the complexity of the form caused us to move away from it.
+
+### Typography & Vectors
+
+![](static/media/uploads/three_dog_concepts.png)
