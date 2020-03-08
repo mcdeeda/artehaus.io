@@ -10,15 +10,11 @@ tags:
   - projects
   - Visual Design
 ---
-## Lyle O. Reitzel Gallery
-
-In addition to co-managing Lyle O. Reitzel Gallery in 2018, I designed all posters, flyers and other graphical assets for the gallery's various events including openings and artist talks.
+# Lyle O. Reitzel Gallery
 
 ![3 flyers for gallery openings](static/media/uploads/5c1c2b39f3c4a4975bfe173d_woodlandfables_front-p-800.jpg "Opening Flyers")
 
-### Flyers
-
-I designed flyers and hand-outs for all gallery openings and events at Lyle O. Reitzel Gallery, getting a chance to start a dialogue with our artists and collaborating to use their works and my typography and graphic design to enhance the exhibition experience and draw in visitors.
+In addition to co-managing Lyle O. Reitzel Gallery in 2018, I designed all posters, flyers and other graphical assets for the gallery's various events including openings and artist talks.
 
 ![Vinyl Cut signage for a gallery opening, and a gallery logo](static/media/uploads/othergallery_banner.jpg "Without Permission Vinyl Cut")
 
