@@ -3,7 +3,9 @@ layout: layouts/project.njk
 title: Gestura
 thumbnailSrc: static/media/uploads/all-3retndered.jpg
 thumbnailAlt: '3 Dark, geometric instruments'
-description: Gestural Musical Instruments for Live Performance
+description: >-
+  Aluminum and Silicone Instruments made to be bent, waved, slapped and squished
+  to create sound
 tags:
   - projects
   - Creative Coding
@@ -11,7 +13,7 @@ tags:
 ---
 # Gestura
 
-![3 Black instruments on a dark background](static/media/uploads/all-3.jpg "Gestura")
+![3 Black instruments on a dark background](static/media/uploads/all-3_lightbg.jpg "Gestura")
 
 Gestura was my first major student project in industrial design. My intention was to create electronic musical instruments that were more dramatic and gestural than existing options like midi keyboards and beatpads. 
 
