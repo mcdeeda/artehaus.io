@@ -15,7 +15,7 @@ tags:
 
 Gestura was my first major student project in industrial design. My intention was to create electronic musical instruments that were more dramatic and gestural than existing options like midi keyboards and beatpads. 
 
-> ## Process
+## Process
 
 ### Gesture Study
 
