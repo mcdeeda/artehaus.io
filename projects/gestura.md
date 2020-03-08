@@ -1,7 +1,7 @@
 ---
 layout: layouts/project.njk
 title: Gestura
-thumbnailSrc: static/media/uploads/gestura_main.jpg
+thumbnailSrc: static/media/uploads/all-3retndered.jpg
 thumbnailAlt: '3 Dark, geometric instruments'
 description: Gestural Musical Instruments for Live Performance
 tags:
