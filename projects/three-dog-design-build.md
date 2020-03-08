@@ -7,7 +7,7 @@ thumbnailAlt: >-
   typography
 description: Logo for "Three Dog Design & Build"
 tags:
-  - Projects
+  - projects
   - Visual Design
 ---
 ![Logo for "Three Dog Design & Build"](static/media/uploads/three_dog_main_hires_whitebg.png "Three Dog D&B Logo")
