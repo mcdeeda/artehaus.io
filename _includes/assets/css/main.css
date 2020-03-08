@@ -25,9 +25,7 @@
   }
 }
 
-a {
-    text-decoration: underline;
-}
+
 
 h1, .h1 {
   font-size: 3.744rem;
@@ -35,13 +33,11 @@ h1, .h1 {
   font-weight: 900;
 }
 
+
 h2, .h2 {
   font-size: 3rem;
   font-family: sofia-pro, serif; 
   font-weight: 700;
-  border-bottom: 3px solid;
-  margin: 2rem 0 1rem 0;
-    padding-bottom: .2rem;
     
 }
 
@@ -73,6 +69,10 @@ p, .p {
   line-height: 150%;
 }
 
+p > a {
+    text-decoration: underline;
+}
+
 img, .img {
   max-width: 100%;
   border-radius: 5px;
@@ -84,6 +84,12 @@ section {
 
 section > h1 {
   margin-bottom: 1rem;
+}
+
+section > h2 {
+  border-bottom: 3px solid;
+  margin: 2rem 0 1rem 0;
+    padding-bottom: .2rem;
 }
 
 .stack {
