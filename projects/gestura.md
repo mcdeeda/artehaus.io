@@ -3,7 +3,9 @@ layout: layouts/project.njk
 title: Gestura
 thumbnailSrc: static/media/uploads/all-3retndered.jpg
 thumbnailAlt: '3 Dark, geometric instruments'
-description: Gestural Musical Instruments for Live Performance
+description: >-
+  Aluminum and Silicone Instruments made to be bent, waved, slapped and squished
+  to create sound
 tags:
   - projects
   - Creative Coding
