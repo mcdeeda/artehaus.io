@@ -10,9 +10,9 @@ tags:
   - projects
   - Visual Design
 ---
-![Logo for "Three Dog Design & Build"](static/media/uploads/three_dog_main_hires_whitebg.png "Three Dog D&B Logo")
-
 # Three Dog Design & Build
+
+![Logo for "Three Dog Design & Build"](static/media/uploads/three_dog_main_hires_whitebg.png "Three Dog D&B Logo")
 
 ## Process
 
@@ -21,8 +21,6 @@ tags:
 ![Early concept sketches involving type, 3D figures, and dogs](static/media/uploads/concept_sketches.jpg "Three Dog Concept Sketches")
 
 I started out with some loose sketches involving dogs and images related to Three Dog's business, local construction contracting. I as thinking about 3D figures, materials and, of course, dogs. 
-
-
 
 ### Typography & Vectors
 
