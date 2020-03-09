@@ -50,7 +50,7 @@ We finalized our sign iterations after focusing in on the role of arrows in deli
 
 ### Lightbox Models
 
-![Two scale models of lightbox signs](static/media/uploads/lightboxsigns.png "Lightbox Sign Models")
+![Two scale models of lightbox signs](static/media/uploads/lightboxsigns.jpg "Lightbox Sign Models")
 
 The last step in this process for me was to create scale models of the signs we intended to be backlit to demonstrate the improved readability we expected. I built these signs using laser cut acrylic with a paper backing and fluorescent lights mounted inside. 
 
