@@ -1,15 +1,14 @@
 ---
 layout: layouts/project.njk
-title: Gestura
-thumbnailSrc: static/media/uploads/all-3retndered.jpg
-thumbnailAlt: '3 Dark, geometric instruments'
+title: Penn 21
+thumbnailSrc: static/media/uploads/both_signs.jpg
+thumbnailAlt: 'Two illuminated lightbox signs'
 description: >-
-  Aluminum and Silicone Instruments made to be bent, waved, slapped and squished
-  to create sound
+  A new set of standards for graphics, typography and signage design for Penn Station in New York
 tags:
   - projects
-  - Creative Coding
   - Product Design
+  - Visual Design
 ---
 # Penn 21
 
