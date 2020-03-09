@@ -75,6 +75,9 @@ p > a {
 
 img, .img {
   max-width: 100%;
+}
+
+section > img{
   border-radius: 5px;
 }
 
@@ -735,6 +738,7 @@ form[name="contact"] button {
 
 .filter {
   position: relative;
+  line-height: 1.5;
 }
 
 .filter::before {
@@ -767,6 +771,7 @@ form[name="contact"] button {
 
 .card {
   position: relative;
+  margin: 0 3px 0 0;
 }
 
 .card .info {
