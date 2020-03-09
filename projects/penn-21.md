@@ -2,9 +2,10 @@
 layout: layouts/project.njk
 title: Penn 21
 thumbnailSrc: static/media/uploads/both_signs.jpg
-thumbnailAlt: 'Two illuminated lightbox signs'
+thumbnailAlt: Two illuminated lightbox signs
 description: >-
-  A new set of standards for graphics, typography and signage design for Penn Station in New York
+  A new set of standards for graphics, typography and signage design for Penn
+  Station in New York
 tags:
   - projects
   - Product Design
@@ -12,7 +13,7 @@ tags:
 ---
 # Penn 21
 
-![Two Lightbox Signs for a train station](static/media/uploads/both_signs.jpg "Penn 21 Lightboxes")
+![Two Lightbox Signs for a train station](static/media/uploads/both_signs_cropped.jpg "Penn 21 Lightboxes")
 
 Penn 21 was a student project focusing on ethnographic research and problem framing. Myself and my teammate, Antonio Serna Rosellini, worked together to identify the biggest issues in New York's Penn Station and create a new visual identity for its graphics and signage to improve readibility, wayfinding and communication for non-native speakers.
 
@@ -52,8 +53,4 @@ We finalized our sign iterations after focusing in on the role of arrows in deli
 
 ![Two scale models of lightbox signs](static/media/uploads/lightboxsigns.jpg "Lightbox Sign Models")
 
-The last step in this process for me was to create scale models of the signs we intended to be backlit to demonstrate the improved readability we expected. I built these signs using laser cut acrylic with a paper backing and fluorescent lights mounted inside. 
-
-
-
-
+The last step in this process for me was to create scale models of the signs we intended to be backlit to demonstrate the improved readability we expected. I built these signs using laser cut acrylic with a paper backing and fluorescent lights mounted inside.
