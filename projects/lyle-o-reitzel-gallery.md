@@ -16,7 +16,7 @@ tags:
 
 In addition to co-managing Lyle O. Reitzel Gallery in 2018, I designed all posters, flyers and other graphical assets for the gallery's various events including openings and artist talks.
 
-![Vinyl Cut signage for a gallery opening, and a gallery logo](static/media/uploads/othergallery_banner.jpg "Without Permission Vinyl Cut")
+![Vinyl Cut signage for a gallery opening, and a gallery logo](static/media/uploads/othergallery.jpg "The Other Gallery")
 
 ### The Other Gallery
 
