@@ -14,7 +14,7 @@
         {
             "href": "https://github.com/mcdeeda",
             "iconName": "logo-github",
-            "sidebar": false 
+            "sidebar": true 
         }
     ]
 }
