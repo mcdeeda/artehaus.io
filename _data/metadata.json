@@ -2,29 +2,19 @@
     "title": "Edan McDevitt | Artehaus",
     "social": [
         {
-            "href": "https://www.google.com/",
+            "href": "https://www.instagram.com/artehaus__/",
             "iconName": "logo-instagram",
             "sidebar": true
         },
         {
-            "href": "https://www.google.com/",
-            "iconName": "logo-twitter",
-            "sidebar": true
-        },
-        {
-            "href": "https://www.google.com/",
+            "href": "https://www.linkedin.com/in/mcdeeda/",
             "iconName": "logo-linkedin",
             "sidebar": true
         },
         {
-            "href": "mailto:example@gmail.com",
-            "iconName": "logo-facebook",
-            "sidebar": true
-        },
-        {
-            "href": "https://www.google.com/",
+            "href": "https://github.com/mcdeeda",
             "iconName": "logo-github",
-            "sidebar": false 
+            "sidebar": true 
         }
     ]
 }
