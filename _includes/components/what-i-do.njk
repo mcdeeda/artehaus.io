@@ -1,12 +1,12 @@
 <article class="stack-sm">
     <h2>What I Do</h2>
     <div class="grid gap:s0">
-        {% for category in collections.projectCategories %}
-            <a href="/#{{ category | lower | replace(" ", "-") }}">
-                <figure class="reel-item">
-                    <img src="https://picsum.photos/600" alt="" class="box-shadow-light">
+        {% for project in collections.featured %}
+            <a href="/#{{project.data.featured | lower | replace(" ", "-")}}">
+                <figure class="stack-sm reel-item">
+                    <img src="/{{ project.data.thumbnailSrc }}" alt="{{ project.data.thumbnailAlt }}" class="box-shadow-light">
                     <div class="text-container">
-                        <h3>{{ category }}</h3>
+                        <h3>{{ project.data.featured }}</h3>
                     </div>
                 </figure>
             </a>
