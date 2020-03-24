@@ -9,6 +9,7 @@ description: >-
 tags:
   - projects
   - Visual Design
+featured: Visual Design
 ---
 # Lyle O. Reitzel Gallery
 

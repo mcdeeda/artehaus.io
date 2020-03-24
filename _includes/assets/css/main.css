@@ -648,6 +648,11 @@ section > h2 {
   background-color: #151515;
   color: #F3F3F3;
   text-align: center;
+  padding: 12px;
+}
+
+.reel-item > .text-container > h3 {
+  margin: 0;
 }
 
 form[name="contact"] {

@@ -10,6 +10,7 @@ tags:
   - projects
   - Product Design
   - Visual Design
+featured: Product Design
 ---
 # Penn 21
 
