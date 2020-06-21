@@ -8,4 +8,4 @@ tags:
   - Projects
   - Motion Design
 ---
-![]()
+![](static/media/uploads/ezgif-4-0addf3bd874d.gif)
