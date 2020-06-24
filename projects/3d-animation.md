@@ -8,7 +8,11 @@ tags:
   - projects
   - Motion Design
 ---
-Since 2016, I have been creating animations and posting on the [@artehaus__](https://www.instagram.com/artehaus__/) instagram account. In addition to being a fun creative outlet, learning to use Cinema 4D, Realflow, TurbulenceFD and other tools to create high quality animations and VFX proved immensely helpful in boosting my 3D skillset and giving me tools to improve the presentation of my product design projects.
+<video autoplay loop width="800" height="480">
+  <source type="video/webm" src="static/media/uploads/lava-webm.webm">
+</video>
+
+Since 2016, I have been creating animations and posting on [@artehaus__](https://www.instagram.com/artehaus__/) on Instagram. In addition to being a fun creative outlet, learning to use Cinema 4D, Realflow, TurbulenceFD and other tools to create high quality animations and VFX proved immensely helpful in boosting my 3D skillset and giving me tools to improve the presentation of my product design projects.
 
 ![A sphere of purple flowers erupts from a harsh wind](static/media/uploads/ezgif-4-0addf3bd874d.gif "Flower Wind Animation")
 
