@@ -18,8 +18,6 @@ featured: Product Design
 
 Penn 21 was a student project focusing on ethnographic research and problem framing. Myself and my teammate, Antonio Serna Rosellini, worked together to identify the biggest issues in New York's Penn Station and create a new visual identity for its graphics and signage to improve readibility, wayfinding and communication for non-native speakers.
 
-## Process
-
 ### Problem Framing
 
 ![Call outs of various issues in signage communication and visibility](static/media/uploads/callouts.jpg "callouts")

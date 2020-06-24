@@ -63,6 +63,11 @@ h6, .h6 {
   font-weight: normal;
 }
 
+hr{
+    margin: 1.5rem;
+    border: 0.5px solid;
+}
+
 p, .p {
   font-family: sofia-pro, sans-serif; 
   font-size: .8rem;
@@ -75,6 +80,8 @@ p > a {
 
 img, .img {
   max-width: 100%;
+  display: block;
+  margin: 1rem auto;
 }
 
 section > img{
@@ -498,6 +505,7 @@ section > h2 {
   font-family: sofia-pro, sans-serif;
   color: #5D5D5D;
   text-transform: none;
+  font-weight: 500;
 }
 
 @media (prefers-color-scheme: dark) {

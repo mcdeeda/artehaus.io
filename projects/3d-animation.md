@@ -14,6 +14,4 @@ Since 2016, I have been creating animations and posting on the @artehaus__ insta
 
 ![An old-timey bomb which, rather than exploding, crumbles into pieces](static/media/uploads/ezgif-4-1694b744bc54.gif "Bomb failure")
 
-
-
 ![A cup pouring iridescent liquid into another cup, and looping](static/media/uploads/ezgif-4-38d6242dc2a0.gif "Cup pouring")
