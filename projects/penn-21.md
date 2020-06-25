@@ -3,13 +3,13 @@ layout: layouts/project.njk
 title: Penn 21
 thumbnailSrc: static/media/uploads/both_signs.jpg
 thumbnailAlt: Two illuminated lightbox signs
-description: >-
-  A new set of standards for graphics, typography and signage design for Penn
-  Station in New York
+description: A new set of standards for graphics, typography and signage design
+  for Penn Station in New York
 tags:
   - projects
   - Product Design
   - Visual Design
+  - 3D
 featured: Product Design
 ---
 # Penn 21
