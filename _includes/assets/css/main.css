@@ -77,9 +77,13 @@ img, .img {
   max-width: 100%;
 }
 
-p > img, p > video{
+p > img, section > video{
   display: block;
   margin: 1rem auto;
+}
+
+video {
+    width: 100%;
 }
 
 section > img{
