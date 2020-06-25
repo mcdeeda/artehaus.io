@@ -9,9 +9,7 @@ tags:
   - Motion Design
   - 3D
 ---
-# 3D Animation
-
-<video autoplay loop>
+<video autoplay loop width="800" height="480">
   <source type="video/webm" src="static/media/uploads/lava-webm.webm">
 </video>
 
