@@ -27,7 +27,7 @@ Customizing stock photos as article headers was a key aspect of developing The P
 The images above were used in a series of articles tackling the stigmaa of differences in libido in a long-term relationship.
 
 
-![Still Image version of Plunge Proposals Banner. Outlined "The Plunge" logo with "Proposals" written in 3D Mylar Balloons](static/media/uploads/proposals_banner_outlinedtype.png "Squiggly Images")
+![Still Image version of Plunge Proposals Banner. Outlined "The Plunge" logo with "Proposals" written in 3D Mylar Balloons](static/media/uploads/proposals_banner_outlinedtype.jpg "Plunge Proposals Logo")
 
 ### Plunge Proposals
 
@@ -35,7 +35,7 @@ Plunge Proposals is a section of The Plunge's site focused on user-submitted pro
 
 Developing the identity of Plunge Proposals began with an evaluation of the semantic values of proposals we wanted to highlight; in particular we were focused on the tension between sincerity, intimacy and theatrics that goes into a unique and successful proposal. We moved away from a focus on rings and the traditional kneel, and towards imagery surrounding stagelights and mylar balloons in order to bring a greater focus to the theatrical element.
 
-![Earlier iterations of the Plunge Proposals logo/banner](static/media/uploads/proposals_balloonversions.png "Earlier Versions of the Plunge Proposals Banner")
+![Earlier iterations of the Plunge Proposals logo/banner](static/media/uploads/proposals_balloon_versions.jpg "Earlier Versions of the Plunge Proposals Banner")
 
 Eventually, after settling on the mylar balloon concept, I made several iterations of 3D typography (one of my favorite things to design) using Cinema 4D's cloth dynamics. We settled on the highly readable straight layout with monochromatic colors, but I still have a fondness for the pastel environment and staggered layout of the earlier style. I completed the project with the slow, looping animation of the letters gently waving in the breeze seen at the top of the page.
 
