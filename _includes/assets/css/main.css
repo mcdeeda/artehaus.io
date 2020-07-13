@@ -67,6 +67,7 @@ p, .p {
   font-family: sofia-pro, sans-serif; 
   font-size: .8rem;
   line-height: 150%;
+  margin: 1rem 0;
 }
 
 p > a {
@@ -98,10 +99,19 @@ section > h1 {
   margin-bottom: 1rem;
 }
 
-section > h2 {
-  border-bottom: 3px solid;
-  margin: 2rem 0 1rem 0;
-    padding-bottom: .2rem;
+section > h1::after {
+    content: "";
+    border-top: 1px solid;
+    width: 25%;
+    display: block;
+    margin-top: .6rem;
+}
+section > h2::after {
+    content: "";
+    border-top: 1px solid;
+    width: 25%;
+    display: block;
+    margin-top: .6rem;
 }
 
 .stack {

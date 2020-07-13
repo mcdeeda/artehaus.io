@@ -8,6 +8,8 @@ tags:
   - projects
   - Motion Design
 ---
+# 3D Animation
+
 <video autoplay loop width="800" height="480">
   <source type="video/webm" src="static/media/uploads/lava-webm.webm">
 </video>

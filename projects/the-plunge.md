@@ -1,7 +1,7 @@
 ---
 layout: layouts/project.njk
 title: The Plunge
-thumbnailSrc: static/media/uploads/plunge-proposals-thumbnail-compressed.gif
+thumbnailSrc: static/media/uploads/proposals-thumbnail.gif
 thumbnailAlt: "Plunge Proposals Banner in Motion"
 description: Brand identity work for groom-focused wedding site The Plunge
 tags:
@@ -18,18 +18,20 @@ tags:
 In 2018 I had the opportunity to work with groom-focused wedding site [The Plunge](https://www.theplunge.com/) to create some customized assets for their articles as well as to develop a visual identity for their "Plunge Proposals" site column.
 
 
+## Article Photos
+
 ![3 Images of people seemingly discouraged or upset, with abstract lines and shapes](static/media/uploads/squiggles-joined.jpg "Squiggly Images")
 
-### Article Photos
 
 Customizing stock photos as article headers was a key aspect of developing The Plunge's identity online as well as helping to deepen the emotional connection between the reader and author. We found that by adding more abstract and expressive visual elements into these photos, articles stood out and communicated more effectively at a glance, an important value for attracting readers through social media.
 
-The images above were used in a series of articles tackling the stigmaa of differences in libido in a long-term relationship.
+The images above were used in a series of articles tackling the stigma of differences in libido in a long-term relationship.
 
+
+## Plunge Proposals
 
 ![Still Image version of Plunge Proposals Banner. Outlined "The Plunge" logo with "Proposals" written in 3D Mylar Balloons](static/media/uploads/proposals_banner_outlinedtype.jpg "Plunge Proposals Logo")
 
-### Plunge Proposals
 
 Plunge Proposals is a section of The Plunge's site focused on user-submitted proposal stories. The hope for Plunge Proposals was to serve as a one-stop-shop for unique proposal ideas and to give inspiration to prospective grooms.
 
