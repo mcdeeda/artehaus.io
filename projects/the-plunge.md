@@ -7,10 +7,13 @@ description: Brand identity work for groom-focused wedding site The Plunge
 tags:
   - projects
   - Motion Design
+  - Visual Design
+  - 3D
+featured: Visual Design
 ---
 # The Plunge
 
-<video autoplay loop width="800" height="480">
+<video autoplay loop>
   <source type="video/webm" src="static/media/uploads/plunge-proposals-banner.webm">
 </video>
 

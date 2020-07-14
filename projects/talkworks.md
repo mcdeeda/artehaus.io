@@ -1,28 +1,26 @@
 ---
 layout: layouts/project.njk
-title: Gestura
-thumbnailSrc: static/media/uploads/all-3retndered.jpg
-thumbnailAlt: 3 Dark, geometric instruments
-description: Aluminum and Silicone Instruments made to be bent, waved, slapped
+title: Talkworks
+thumbnailSrc: static/media/uploads/04901.pt01.jpg
+thumbnailAlt: Exploded View of a phone mount for car vents
+description: 3D and graphic design work for cell phone accessory company Talkworks
   and squished to create sound
 tags:
   - projects
-  - Creative Coding
-  - Industrial Design
+  - Visual Design
   - 3D
-featured: Creative Coding
 ---
-# Gestura
+# Talkworks
 
 ![3 Black instruments on a dark background](static/media/uploads/all-3_lightbg.jpg "Gestura")
 
-Gestura was my first major student project in industrial design. My intention was to create electronic musical instruments that were more dramatic and gestural than existing options like midi keyboards and beatpads. 
+Since 2019 I've worked with cellphone accessory company Talkworks, designing 3D models and render scenes, as well as product compositions & informative digital slides for use on Amazon, Target, and other e-commerce platforms. 
 
-## Gesture Study
+## Product Modeling & Rendering
 
 ![Figures of various musicians with abstracted instruments](static/media/uploads/gesture_study.png "Gesture Study")
 
-To begin the ideation process, I began a practice of tracing the postures and gestures of traditional musicians, abstracting their instruments and inserting my own curves and volumes to see what sort of new forms were possible. Many of these sketches ended up evolving directly into concepts and models. 
+My most frequent work at Talkworks is the creation of 3D product models and render scenes based on product samples sent to us from our manufacturing providers. In a sort of inversion of the typical industrial design process, I take precise measurements and recreate the already manufactured product in 3D to create high-quality product imagery for e-commerce.
 
 ## Form Innovation
 
@@ -38,4 +36,4 @@ Creating working electronic prototypes added an extra layer of challenge to this
 
 ![Exploded view of three Gestura instruments](static/media/uploads/brochure_2.jpg "Exploded views")
 
-Gestura is an ongoing project that I continue to use as a baseline to explore the relationship between design, gesture, technology, and sound. The original Gestura instruments were designed under the constrant of a formal family of objects, but I plan to continue developing new forms outside of this restriction to see where the path of gesture -> form -> sound takes me.
+Gestura is an ongoing project and a baseline for me to continue exploring the relationship between design, sound, and gesture. 

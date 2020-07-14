@@ -8,7 +8,6 @@ description: Graphic works for Lyle O. Reitzel Gallery, contemporary Dominican
 tags:
   - projects
   - Visual Design
-featured: Visual Design
 ---
 # Lyle O. Reitzel Gallery
 

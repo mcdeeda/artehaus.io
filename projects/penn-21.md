@@ -8,7 +8,7 @@ description: >-
   Station in New York
 tags:
   - projects
-  - Product Design
+  - Industrial Design
   - Visual Design
 featured: Product Design
 ---
