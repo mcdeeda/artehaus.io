@@ -1,7 +1,7 @@
 ---
 layout: layouts/project.njk
 title: 3D Animation
-thumbnailSrc: static/media/uploads/ezgif.com-optimize.gif
+thumbnailSrc: static/media/uploads/ezgif-4-b2d00e153005.gif
 thumbnailAlt: An animation of an erupting lava planet
 description: Personal works in 3D Animation
 tags:
@@ -9,9 +9,7 @@ tags:
   - Motion Design
   - 3D
 ---
-# 3D Animation
-
-<video autoplay loop>
+<video autoplay loop width="800" height="480">
   <source type="video/webm" src="static/media/uploads/lava-webm.webm">
 </video>
 
