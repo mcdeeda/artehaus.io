@@ -88,7 +88,8 @@ video {
 }
 
 section > img{
-  border-radius: 5px;
+    margin: .5rem;
+    max-width: calc(33% - 1rem);
 }
 
 section {
