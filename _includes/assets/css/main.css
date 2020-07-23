@@ -88,8 +88,9 @@ video {
 }
 
 section > img{
-    margin: .5rem;
-    max-width: calc(33% - 1rem);
+    padding: 0.5rem;
+    max-width: 32%;
+    
 }
 
 section {
@@ -675,6 +676,12 @@ section > h2::after {
   margin: 0;
 }
 
+section > img{
+    max-width: 100%;
+    padding: 0;
+    display:block;
+    margin: 0 auto;
+}
 form[name="contact"] {
   max-width: 60ch;
 }
@@ -749,6 +756,7 @@ form[name="contact"] button {
   border: 2px #151515 solid;
   background: #151515;
   color: #F3F3F3;
+    
 }
 
 @media (prefers-color-scheme: dark) {

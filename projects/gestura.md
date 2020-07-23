@@ -22,9 +22,25 @@ Gestura was my first major student project in industrial design. My intention wa
 
 ![Figures of various musicians with abstracted instruments](static/media/uploads/gesture_study.png "Gesture Study")
 
-To begin the ideation process, I began a practice of tracing the postures and gestures of traditional musicians, abstracting their instruments and inserting my own curves and volumes to see what sort of new forms were possible. Many of these sketches ended up evolving directly into concepts and models. 
+To begin the ideation process, I began a practice of tracing the postures and gestures of traditional musicians, abstracting their instruments and inserting my own curves and volumes to see what sort of new forms were possible.
 
 ## Form Innovation
+
+<img src="static/media/uploads/gestura-sketch1.jpg" alt="Sketch of a group of boxes which you trace the tip of your finger along" title="Wine glass concept">
+
+<img src="static/media/uploads/gestura-sketch2.jpg" alt="Sketch of a grid of squishy spheres which are twisted, squeezed and pressed to create sound" title="Squishy grid mockup">
+
+<img src="static/media/uploads/gestura-sketch3.jpg" alt="Sketch of a large sphere like a crytal ball which is squished and manipulated to create sound" title="Crystal ball mockup">
+
+Working from the framework of gesture, I began to isolate specific movements and actions that were interesing to me either visually or as a pairing with a specific sound. I began sketching forms that complemented these gestures. 
+
+<img src="static/media/uploads/gestura-sketch4.jpg" alt="Sketch of a rectangular instrument that you bend" title="Bend Concept">
+
+<img src="static/media/uploads/gestura-sketch5.jpg" alt="Sketch of an organic form that wraps around a leg, and is played like a drum" title="Slap Concept">
+
+<img src="static/media/uploads/gestura-sketch6.jpg" alt="Sketch of a two-part instrument which snaps together and creates sound based on proximity" title="Wave Concept">
+
+As testing with friends and peers revealed which postures were comfortable and evocative, and which forms were engaging and intuitive to interact with, the shapes as well as the sounds of the instruments began to take form.
 
 ![Circular Instrument, with 2 hemispheres separating](static/media/uploads/both_instr.jpg "Gestura Wave")
 

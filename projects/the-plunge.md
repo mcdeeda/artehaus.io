@@ -23,8 +23,11 @@ In 2018 I had the opportunity to work with groom-focused wedding site [The Plung
 
 ## Article Photos
 
-![3 Images of people seemingly discouraged or upset, with abstract lines and shapes](static/media/uploads/squiggles-joined.jpg "Squiggly Images")
+<img src="static/media/uploads/squiggle-1.jpg" alt="Stock photo of a woman lying down with abstract lines added in" title="Squiggly Images">
 
+<img src="static/media/uploads/squiggle-2.jpg" alt="Stock photo of a man lying down with abstract lines added in" title="Squiggly Images">
+
+<img src="static/media/uploads/squiggle-3.jpg" alt="Stock photo of a man and a woman with abstract, contrasting circles and squares" title="Squiggly Images">
 
 Customizing stock photos as article headers was a key aspect of developing The Plunge's identity online as well as helping to deepen the emotional connection between the reader and author. We found that by adding more abstract and expressive visual elements into these photos, articles stood out and communicated more effectively at a glance, an important value for attracting readers through social media.
 
