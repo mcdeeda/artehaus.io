@@ -38,6 +38,7 @@ h2, .h2 {
   font-size: 2rem;
   font-family: sofia-pro, serif; 
   font-weight: 700;
+    margin-bottom: .2rem;
     
 }
 
@@ -88,7 +89,7 @@ video {
 }
 
 section > img{
-    padding: 0.5rem;
+    padding: 0.2rem;
     max-width: 32%;
     
 }
@@ -515,6 +516,14 @@ section > h2::after {
   border-top: 3px solid #151515;
 }
 
+
+section > img{
+    max-width: 100%;
+    padding: 0;
+    display:block;
+    margin: 0 auto;
+}
+
 .header .subtitle {
   font-family: sofia-pro, sans-serif;
   color: #5D5D5D;
@@ -676,12 +685,6 @@ section > h2::after {
   margin: 0;
 }
 
-section > img{
-    max-width: 100%;
-    padding: 0;
-    display:block;
-    margin: 0 auto;
-}
 form[name="contact"] {
   max-width: 60ch;
 }
