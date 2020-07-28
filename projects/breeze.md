@@ -1,15 +1,17 @@
 ---
 layout: layouts/project.njk
 title: Breeze
-thumbnailSrc: static/media/uploads/3.19.jpg
-thumbnailAlt: Breeze Seats
-description: A modular system of public seating that facilitates playful
-  interaction with strangers
+thumbnailSrc: static/media/uploads/breeze-thumbnail.jpg
+thumbnailAlt: Breeze
+description: A modular system of inflatable public seating that facilitates
+  playful interaction with strangers
 tags:
   - projects
   - Industrial Design
   - 3D
 ---
+![Breeze Logo and Banner](static/media/uploads/breeze-banner-hires.jpg "Breeze Banner")
+
 One of my first projects during my MFA at Parsons was Breeze, a collaborative project in which me and my partner, Danyang Cui, worked from the prompt of "Urban Outdoor Furniture for Public Health". Our process led us towards the design of a modular system of inflatable seats which facilitate serendipitous and playful interactions between strangers. 
 
 ## Early Concepts
