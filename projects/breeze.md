@@ -30,4 +30,10 @@ Eventually, we received a strong response for a sketch and model involving the c
 
 ## Design Iteration & Testing
 
-We continued to sketch new design concepts, now focusing on the concept of interdependence and interconnectivity. We refined our desired interaction away from strictly game-like interactions, and towards a more general, serendipitous interaction between strangers.
+![Concept sketches for interconnected bubbly seats](static/media/uploads/breeze-sketch4.1.jpg "Bubbly Concept Sketch")
+
+![Concept for differently sized seats on a diagonal platform](static/media/uploads/breeze-sketch5.jpg "Diagonaal platform concept")
+
+With our central concept ironed out, we began to delegate tasks between the two of us suited to our strengths. Danyang continued conceptual sketching, imagining new forms and contexts in which our interconnected seats could exist, and I worked on functional models using balloons and plumbing valves to test different fluid transfer speeds and seeing how a possible 3+ way system of seats could work.
+
+![Functional models using balloons and plumbing valves to test fluid/air transfer speeds](static/media/uploads/breeze-functionalmodel1.jpg "Breeze Functional Model 1")
