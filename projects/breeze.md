@@ -50,4 +50,16 @@ With this, we began to look inside of the seats and develop the core solution to
 
 ![Mid-stage exploded view showing plastic base and air valve](static/media/uploads/breeze-sketch6.jpg "Breeze Exploded-1")
 
-![]()
+![Breeze sketch showing inner tubing and detachable base for filling with sand](static/media/uploads/breeze-sketch7.jpg "Breeze Exploded-2")
+
+We settled on a design involving six valves on each seat, allowing for modular configurations of an arbitrary number of seats. Additionally, by using a hollow plastic base, we avoided the need for a concrete foundation as the base could be filled with sand and flipped over for a simple installation.
+
+## Final Models
+
+![Aesthetic model of Breeze system placed on a fake grass panel](static/media/uploads/breeze-aestheticmodel.jpg "Breeze Aesthetic model")
+
+![Functional model of Breeze system, three inflated hemispheres placed on an acrylic box](static/media/uploads/breeze-functionalmodel.jpg "Breeze Functional model")
+
+The final step in developing Breeze before presenting to our peers and professors was creating two models: one high fidelity in appearance and one high-fidelity in functionality. Danyang created a 3D model of a potential configuration for Breeze involving three sizes of seats and we combined the 3D print with laser cut silhouettes of potential users in the park. 
+
+For the functional model, I cut three foam bases on the band saw and attached a thin latex layer using silicone caulk. Connecting the three bases with soft PVC tubing and a three-way plumbing valve, I placed the entire configuration within an acrylic box I made to make the inner workings easily visible.
