@@ -38,7 +38,7 @@ To begin the ideation process, I began a practice of tracing the postures and ge
 
 Working from the framework of gesture, I began to isolate specific movements and actions that were interesing to me either visually or as a pairing with a specific sound. I began sketching forms that complemented these gestures. 
 
-<div class="flex-container>
+<div class="flex-container">
 
 ![Sketch of a rectangular instrument that you bend](static/media/uploads/gestura-sketch4.jpg "Bend Concept")
 
