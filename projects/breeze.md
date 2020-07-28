@@ -14,25 +14,33 @@ One of my first projects during my MFA at Parsons was Breeze, a collaborative pr
 
 ## Early Concepts
 
-
+<div class="flex-container">
 
 ![Sketch of a large piece of furniture composed of many soft cubes thrown together](static/media/uploads/breeze-sketch-1.jpg "Cubes Concept Sketch")
 
 ![A movable seat that works as a game piece](static/media/uploads/breeze-sketch2.jpg "Game Piece Concept")
 
+</div>
+
 As we explored concepts in the early stages of designing Breeze, we had an interest in game-like interactions that coud be facilitated by large outdoor structures. Things that moved, rolled, could be picked up and put down, and systems of grids were key areas of interest. We worked from existing archetypal games like checkers to imagine how large-scale games with minimal instruction or structure could facilitate public play.
 
-
-
 ![Sketch of seats with interconnected internal air sacs](static/media/uploads/breeze-sketch3.jpg "Breeze Inflatable Concept")
+
+<video autoplay loop width="500">
+  <source type="video/webm" src="static/media/uploads/breeze-balloonmodel.webm">
+</video>
 
 Eventually, we received a strong response for a sketch and model involving the concept of seats with interconnected internal air cavities. By the nature of this design, it would be difficult or impossible to sit alone as it would deflate your seat and inflate those around you, facilitating a feeling of interdependence with strangers in the same environment.
 
 ## Design Iteration & Testing
 
+<div class="flex-container">
+
 ![Concept sketches for interconnected bubbly seats](static/media/uploads/breeze-sketch4.1.jpg "Bubbly Concept Sketch")
 
 ![Concept for differently sized seats on a diagonal platform](static/media/uploads/breeze-sketch5.jpg "Diagonaal platform concept")
+
+</div>
 
 With our central concept ironed out, we began to delegate tasks between the two of us suited to our strengths. Danyang continued conceptual sketching, imagining new forms and contexts in which our interconnected seats could exist, and I worked on functional models using balloons and plumbing valves to test different fluid transfer speeds and seeing how a possible 3+ way system of seats could work.
 
@@ -48,17 +56,25 @@ Will they need a foundation built into the ground?
 
 With this, we began to look inside of the seats and develop the core solution to these issues: We decided on a hybrid option of a solid plastic interior, which could be rotationally molded from PP or another plastic. This form would facilitate the flow of air between seats as well as points of interconnection for tubing, while providing a solid base for an individual sitting. As a result, our core concept was softened a bit from hardcore interdependence, to playful interaction. 
 
+<div class="flex-container">
+
 ![Mid-stage exploded view showing plastic base and air valve](static/media/uploads/breeze-sketch6.jpg "Breeze Exploded-1")
 
 ![Breeze sketch showing inner tubing and detachable base for filling with sand](static/media/uploads/breeze-sketch7.jpg "Breeze Exploded-2")
+
+</div>
 
 We settled on a design involving six valves on each seat, allowing for modular configurations of an arbitrary number of seats. Additionally, by using a hollow plastic base, we avoided the need for a concrete foundation as the base could be filled with sand and flipped over for a simple installation.
 
 ## Final Models
 
+<div class="flex-container">
+
 ![Aesthetic model of Breeze system placed on a fake grass panel](static/media/uploads/breeze-aestheticmodel.jpg "Breeze Aesthetic model")
 
 ![Functional model of Breeze system, three inflated hemispheres placed on an acrylic box](static/media/uploads/breeze-functionalmodel.jpg "Breeze Functional model")
+
+</div>
 
 The final step in developing Breeze before presenting to our peers and professors was creating two models: one high fidelity in appearance and one high-fidelity in functionality. Danyang created a 3D model of a potential configuration for Breeze involving three sizes of seats and we combined the 3D print with laser cut silhouettes of potential users in the park. 
 
