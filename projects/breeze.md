@@ -29,7 +29,7 @@ As we explored concepts in the early stages of designing Breeze, we had an inter
 ![Sketch of seats with interconnected internal air sacs](static/media/uploads/breeze-sketch3.jpg "Breeze Inflatable Concept")
 
 <video autoplay loop width="500">
-  <source type="video/webm" src="static/media/uploads/breeze-balloonmodel.webm">
+  <source type="video/webm" src="static/media/uploads/breeze_balloonmodel.webm">
 </video>
 
 Eventually, we received a strong response for a sketch and model involving the concept of seats with interconnected internal air cavities. By the nature of this design, it would be difficult or impossible to sit alone as it would deflate your seat and inflate those around you, facilitating a feeling of interdependence with strangers in the same environment.
