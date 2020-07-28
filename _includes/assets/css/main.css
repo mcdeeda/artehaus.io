@@ -25,7 +25,18 @@
   }
 }
 
-
+.flex-container{
+	display: flex;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+	align-content: space-evenly;
+}
+.flex-container > p{
+    line-height: 100%;
+    padding: 0.2rem;
+    margin: 0;
+    flex-basis: 50%;
+}
 
 h1, .h1 {
   font-size: 3rem;
@@ -65,9 +76,8 @@ h6, .h6 {
 }
 
 p, .p {
-  font-family: sofia-pro, sans-serif; 
-  font-size: .8rem;
-  line-height: 150%;
+  font-family: sofia-pro, sans-serif;
+  line-height: 130%;
   margin: 1rem 0;
 }
 
@@ -503,6 +513,7 @@ section > h2::after {
 }
 
 @media screen and (max-width: 48rem) {
+    
   #sidebar {
     display: none;
   }
@@ -514,14 +525,6 @@ section > h2::after {
   width: 10ch;
   border: 0;
   border-top: 3px solid #151515;
-}
-
-
-section > img{
-    max-width: 100%;
-    padding: 0;
-    display:block;
-    margin: 0 auto;
 }
 
 .header .subtitle {
