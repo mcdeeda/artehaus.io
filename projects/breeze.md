@@ -64,7 +64,11 @@ With this, we began to look inside of the seats and develop the core solution to
 
 </div>
 
-We settled on a design involving six valves on each seat, allowing for modular configurations of an arbitrary number of seats. Additionally, by using a hollow plastic base, we avoided the need for a concrete foundation as the base could be filled with sand and flipped over for a simple installation.
+We settled on a design involving six valves on each seat, allowing for modular configurations of an arbitrary number of seats. Additionally, by using a hollow plastic base, we avoided the need for a concrete foundation as the base could be filled with sand and flipped over for a simple installation. With our new design decisions in mind, we built out our final 3D models and renders.
+
+![Collage of Breeze seating arrangements](static/media/uploads/breeze-collage-compressed.jpg "Breeze Collage")
+
+![Breeze seats rendered in a grassy courtyard](static/media/uploads/breeze-onlawn-compressed.jpg "Breeze in context")
 
 ## Final Models
 
