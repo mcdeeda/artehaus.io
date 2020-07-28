@@ -36,6 +36,8 @@
     padding: 0.2rem;
     margin: 0;
     flex-basis: 50%;
+    flex-grow:2;
+    
 }
 
 h1, .h1 {
@@ -85,17 +87,16 @@ p > a {
     text-decoration: underline;
 }
 
-img, .img {
-  max-width: 100%;
+img, .img, video{
+  width: 100%;
 }
 
 p > img, section > video{
   display: block;
-  margin: 1rem auto;
 }
 
-video {
-    width: 100%;
+section > video{
+    margin 1rem auto;
 }
 
 section > img{

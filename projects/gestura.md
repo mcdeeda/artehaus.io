@@ -34,6 +34,8 @@ To begin the ideation process, I began a practice of tracing the postures and ge
 
 ![Sketch of a large sphere like a crytal ball which is squished and manipulated to create sound](static/media/uploads/gestura-sketch3.jpg "Crystal ball mockup")
 
+![Sketch of a long, rectangular instrument that is bent and twisted](static/media/uploads/gestura-sketch7.jpg "Bend mockup")
+
 </div>
 
 Working from the framework of gesture, I began to isolate specific movements and actions that were interesing to me either visually or as a pairing with a specific sound. I began sketching forms that complemented these gestures. 
