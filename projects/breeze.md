@@ -37,3 +37,17 @@ Eventually, we received a strong response for a sketch and model involving the c
 With our central concept ironed out, we began to delegate tasks between the two of us suited to our strengths. Danyang continued conceptual sketching, imagining new forms and contexts in which our interconnected seats could exist, and I worked on functional models using balloons and plumbing valves to test different fluid transfer speeds and seeing how a possible 3+ way system of seats could work.
 
 ![Functional models using balloons and plumbing valves to test fluid/air transfer speeds](static/media/uploads/breeze-functionalmodel1.jpg "Breeze Functional Model 1")
+
+As the core idea and implementation of Breeze came into focus, we needed to find solutions for smaller, but more difficult problems. Some questions that came up during our critiques were:
+
+Is it impossible for just 1 person to sit?
+
+How do you protect from vandalism or natural damage to the exterior? 
+
+Will they need a foundation built into the ground?
+
+With this, we began to look inside of the seats and develop the core solution to these issues: We decided on a hybrid option of a solid plastic interior, which could be rotationally molded from PP or another plastic. This form would facilitate the flow of air between seats as well as points of interconnection for tubing, while providing a solid base for an individual sitting. As a result, our core concept was softened a bit from hardcore interdependence, to playful interaction. 
+
+![Mid-stage exploded view showing plastic base and air valve](static/media/uploads/breeze-sketch6.jpg "Breeze Exploded-1")
+
+![]()
