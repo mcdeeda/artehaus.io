@@ -10,6 +10,8 @@ tags:
   - Product Design
   - Motion Design
 ---
+![Disassembled planter showing all modular components](static/media/uploads/flatlay.jpg "Upgrow disassembled planter modules")
+
 UpGrow is a modular hydroponic planter designed for urban users. Disappointed with the countertop herb gardens on the market, I designed UpGrow to hang from the wall in a ladder-like chain, providing users with their own scalable herb garden no matter how cramped their environment is.
 
 Competitor analysis revealed that current options in the home herb garden sector are expensive and limited in use; pod systems restrict the vegetables that users can grow and increase cost per yield, and countertop & floorstanding placements take up valuable real estate in a small apartment.
